@@ -1,0 +1,105 @@
+.logo {
+  width: 150px;
+  position: fixed;
+
+}
+
+.row {
+  position: fixed;
+}
+
+.header {
+  display: flex;
+  width: 100%;
+  background-color: rgb(237, 166, 166);
+}
+
+.header-icon {
+  font-size: 30px;
+  position: relative;
+  float: right;
+}
+
+.sidemenu {
+  width: 300px;
+  background-color: rgb(237, 166, 166);
+  font-size: 30px;
+  height: 100vh;
+  position: fixed;
+  left: 0px;
+  top: 50px;
+}
+
+.tag {
+  text-decoration: none;
+  padding-left: 30px;
+}
+
+.detail {
+  padding-left: 300px;
+
+}
+
+::placeholder {
+  color: rosybrown;
+}
+
+.cell2 {
+  width: 40px;
+  height: 20px;
+  font-size: x-small;
+  margin: 10px;
+
+}
+
+.good {
+  margin-left: 300px;
+}
+
+
+
+
+.button {
+  font-size: 30px;
+  background-color: cadetblue;
+  border: 0px;
+  width: 100px;
+  margin-top: 50px;
+}
+
+.headcell {
+  border: 2px solid white;
+
+}
+
+.cell {
+  padding-left: 20px;
+  color: green;
+  color: black;
+  border: 2px solid white;
+}
+
+.table1 {
+  border: '15px';
+  margin-left: 25%;
+
+}
+
+#d1 {
+  margin-left: 2%;
+}
+
+.description {
+  padding-left: 300px;
+}
+
+.backend {
+  width: 700px;
+}
+
+th,
+td {
+  background-color: rgb(31, 233, 233);
+  color: black;
+  font-size: 20px;
+}
